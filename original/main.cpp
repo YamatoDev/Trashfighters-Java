@@ -92,11 +92,6 @@ int main() {
 
             cout << "Narrator: The boy starts off in the school entrance...\n";
 
-//Character trashman = {"Trashman", "Stick", 1, 25, 25, 3, 0, 4, 5, 0, 0, 0};
-//battleSimulation(player, playerskill, trashman);
-//player = levelUp(player, playerskill, trashman);
-//player = incentive(player);
-
             mainhub(player, playerskill);
 
         } else if (choice == "2") {
